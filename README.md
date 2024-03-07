@@ -32,8 +32,6 @@
 <p align="left">
   <a href="https://github.com/Peeentaa">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?  username=Peeentaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeentaa&theme=radical&hide_progress=true"/>
   </a>
 </p>
