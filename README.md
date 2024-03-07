@@ -11,7 +11,7 @@
 
 ### 🚧 &nbsp;Projects
 
-[JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus): a C++ REST API Framework
+[JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus): C++ REST API Framework
 
 ### 🛠 &nbsp;Tech Stack
 
