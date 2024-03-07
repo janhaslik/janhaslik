@@ -2,4 +2,4 @@
 
 ## My projects
 
-JetPlusPlus: [JetPlusPLus](https://github.com/Blue-SeaBird/JetPlusPlus)
+JetPlusPlus: [JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus)
