@@ -32,6 +32,5 @@
 <p align="left">
   <a href="https://github.com/Peeentaa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peeentaa&theme=radical&show_icons=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeentaa&theme=radical&hide_progress=true"/>
   </a>
 </p>
