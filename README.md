@@ -8,6 +8,11 @@
 ✍️ &nbsp;In my free time, I pursue Finance and Webdev as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at jan@haslik.at! I'll try to respond as soon as I can.\
 
+
+### 🚧 &nbsp;Projects
+
+[JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus): a C++ REST API Framework
+
 ### 🛠 &nbsp;Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
