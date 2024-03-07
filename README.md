@@ -1,4 +1,4 @@
-# Penta
+# Hi, my name is Penta
 
 ## My projects
 
