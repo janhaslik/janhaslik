@@ -12,6 +12,7 @@
 ### 🚧 &nbsp;Projects
 
 [JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus): C++ REST API Framework
+[Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software
 
 ### 🛠 &nbsp;Tech Stack
 
