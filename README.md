@@ -32,5 +32,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Peeentaa&show_icons=true&count_private=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeentaa&layout=radical&langs_count=10&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeentaa&layout=compact&langs_count=10&theme=radical" height="170"/>
 </div>
