@@ -30,8 +30,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-  <a href="https://github.com/Peeentaa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peeentaa&theme=radical&show_icons=true&count_private=true"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Peeentaa&show_icons=true&count_private=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeentaa&layout=radical&langs_count=10&theme=radical" height="170"/>
+</div>
