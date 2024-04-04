@@ -11,13 +11,15 @@
 
 ### 🚧 &nbsp;Projects
 
-[JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus): C++ REST API Framework\
+[JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus): C++ REST API Framework \
+[Zoro](https://github.com/Peeentaa/Zoro): Versatile command-line cryptographic tool \
 [Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software \
 [Toukyou](https://github.com/Peeentaa/Toukyou): Financial Data Aggregation & Analysis Pipeline
 
 ### 🛠 &nbsp;Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
