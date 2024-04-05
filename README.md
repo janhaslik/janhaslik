@@ -11,10 +11,20 @@
 
 ### 🚧 &nbsp;Projects
 
-[JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus): C++ REST API Framework \
-[Zoro](https://github.com/Peeentaa/Zoro): Versatile command-line cryptographic tool \
-[Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software \
-[Toukyou](https://github.com/Peeentaa/Toukyou): Financial Data Aggregation & Analysis Pipeline
+**Personal Projects**
+
+- [Zoro](https://github.com/Peeentaa/Zoro): Versatile command-line cryptographic tool
+- [Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software
+- [Toukyou](https://github.com/Peeentaa/Toukyou): Financial Data Aggregation & Analysis Pipeline
+
+**Projects at Blue SeaBird**
+
+- [JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus): C++ REST API Framework
+
+**Projects at [Pango](https://pango.at)**
+
+- Questionaire Edit Tool for [Marksim Services](https://marksim.net)
+
 
 ### 🛠 &nbsp;Tech Stack
 
