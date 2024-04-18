@@ -13,7 +13,7 @@
 
 **Personal Projects**
 
-- [Zoro](https://github.com/Peeentaa/Zoro): Versatile command-line cryptographic tool
+- [Zorro](https://github.com/Peeentaa/Zorro): Versatile command-line cryptographic tool
 - [Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software
 - [Toukyou](https://github.com/Peeentaa/Toukyou): Financial Data Aggregation & Analysis Pipeline
 
