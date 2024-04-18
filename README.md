@@ -26,7 +26,7 @@
 - Questionaire Edit Tool for [Marksim Services](https://marksim.net), React, TS
 - Google maps booking overlay for Superplakat, React, TS
 
-**Projects at HTL Spengergasse **
+**Projects at HTL Spengergasse**
 
 - Stock Analysis Tool with React, Express.js & MongoDB
 - Austrian Airlines Clone with Java, Vue & H2, [Official Website](https://www.austrian.com/at/de/homepage)
