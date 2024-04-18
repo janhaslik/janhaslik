@@ -13,9 +13,9 @@
 
 **Personal Projects**
 
-- [Zorro](https://github.com/Peeentaa/Zorro): Versatile command-line cryptographic tool
-- [Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software
-- [Toukyou](https://github.com/Peeentaa/Toukyou): Financial Data Aggregation & Analysis Pipeline
+- [Zorro](https://github.com/Peeentaa/Zorro): Versatile command-line cryptographic tool written in Golang & SQLite
+- [Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software written in Java, React, MySQL & TS
+- [Toukyou](https://github.com/Peeentaa/Toukyou): Financial Data Aggregation & Analysis Pipeline written in Golang, C++ & SQLite
 
 **Projects at Blue SeaBird**
 
@@ -23,7 +23,17 @@
 
 **Projects at [Pango](https://pango.at)**
 
-- Questionaire Edit Tool for [Marksim Services](https://marksim.net)
+- Questionaire Edit Tool for [Marksim Services](https://marksim.net), React, TS
+- Google maps booking overlay for Superplakat, React, TS
+
+**Projects at HTL Spengergasse **
+
+- Stock Analysis Tool with React, Express.js & MongoDB
+- Austrian Airlines Clone with Java, Vue & H2, [Official Website](https://www.austrian.com/at/de/homepage)
+- Aviation Audit System, Microservices with Java, Vue & MySQL
+- SightSee: Airbnb Clone with .NET, Vue & SQLite, [Official Website](https://www.airbnb.com)
+- Hand Gesture Controll System with Java & OpenCV
+- Spengernews: Newswebsite with Vue, Directus & SQLite
 
 
 ### 🛠 &nbsp;Technologies
