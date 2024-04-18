@@ -17,16 +17,16 @@
 - [Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software written in Java, React, MySQL & TS
 - [Toukyou](https://github.com/Peeentaa/Toukyou): Financial Data Aggregation & Analysis Pipeline written in Golang, C++ & SQLite
 
-**Projects at Blue SeaBird**
+**Projects at [Blue SeaBird](https://www.blueseabird.com)**
 
 - [JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus): C++ REST API Framework
 
-**Projects at [Pango](https://pango.at)**
+**Projects at [Pango](https://www.pango.at)**
 
-- Questionaire Edit Tool for [Marksim Services](https://marksim.net), React, TS
+- Questionaire Edit Tool for [Marksim Services](https://www.marksim.net), React, TS
 - Google maps booking overlay for Superplakat, React, TS
 
-**Projects at HTL Spengergasse**
+**Projects at [HTL Spengergasse](https://www.spengergasse.at)**
 
 - **Stock Analysis Tool** with React, Express.js & MongoDB
 - **Austrian Airlines Clone** with Java, Vue & H2, [Official Website](https://www.austrian.com/at/de/homepage)
