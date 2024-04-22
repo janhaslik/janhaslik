@@ -13,9 +13,10 @@
 
 **Personal Projects**
 
+- [Asura Crow](https://github.com/Peeentaa/Asura-Crow): Google Search Clone: crawler, index, search in C++, Go & MongoDB
 - [Zorro](https://github.com/Peeentaa/Zorro): Versatile command-line cryptographic tool written in Golang & SQLite
 - [Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software written in Java, React, MySQL & TS
-- [Toukyou](https://github.com/Peeentaa/Toukyou): Financial Data Aggregation & Analysis Pipeline written in Golang, C++ & SQLite
+- [Toukyou](https://github.com/Peeentaa/Toukyou): Financial Data Aggregation & Analysis Pipeline written in Go, C++ & SQLite
 
 **Projects at [Blue SeaBird](https://www.blueseabird.com)**
 
