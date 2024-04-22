@@ -29,9 +29,9 @@
 
 **Projects at [HTL Spengergasse](https://www.spengergasse.at)**
 
+- **Aviation Audit System**, Microservices with Java, Vue & MySQL, PM of 24 People
 - **Stock Analysis Tool** with React, Express.js & MongoDB
 - **Austrian Airlines Clone** with Java, Vue & H2, [Official Website](https://www.austrian.com/at/de/homepage)
-- **Aviation Audit System**, Microservices with Java, Vue & MySQL, PM of 24 People
 - **SightSee: Airbnb Clone** with .NET, Vue & SQLite, [Official Website](https://www.airbnb.com)
 - **Hand Gesture Controll System** with Java & OpenCV
 - **Spengernews**: Newswebsite with Vue, Directus & SQLite
