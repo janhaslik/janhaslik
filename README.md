@@ -24,6 +24,7 @@
 
 **Projects at [Pango](https://www.pango.at)**
 
+- Pango Website, https://pango.at
 - Questionaire Edit Tool for [Marksim Services](https://www.marksim.net), React, TS
 - Google maps booking overlay for Superplakat, React, TS
 
@@ -35,6 +36,7 @@
 - **SightSee: Airbnb Clone** with .NET, Vue & SQLite, [Official Website](https://www.airbnb.com)
 - **Hand Gesture Controll System** with Java & OpenCV
 - **Spengernews**: Newswebsite with Vue, Directus & SQLite
+- **Shipdb**: Ship & Plane Management Database, PLSQL/Oracle
 
 
 ### 🛠 &nbsp;Technologies
