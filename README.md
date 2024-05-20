@@ -11,28 +11,28 @@
 ### 🏢 &nbsp;Work Experience
 
 
-**OEBB BCC IKT**\
+**[OEBB BCC IKT](https://bcc.oebb.at/de/das-leisten-wir/information-communication-technology/fim)**\
 *Intern: Finance- & Integration-Management* • Vienna, Austria • Juli 2023 - August 2023
 
 - Supported cost accounting on special cases of clients.
-- Prepared different levels of SLAs for clients.
+- Prepared reports and documentation for asset management.
 - Conducted inventory checks on technical and business sides.
 
-**Kapsch TrafficCom AG**\
+**[Kapsch TrafficCom AG](https://kapsch.net)**\
 *Intern: IT-Support* • Vienna, Austria • August 2022-August 2022
 
 - Increased warehouse efficiency which lead to faster assembly of orders.
 - Migrated offices and set up network infrastructure.
 
-**Blue SeaBird**\
+**[Blue SeaBird](https://blueseabird.com)**\
 *Core Committer* • Vienna, Austria • 2023-Now
 
 - Engineered sophisticated platforms and algorithms, driving innovation and efficiency within open-source projects.
 - Played a pivotal role in shaping project direction and vision, with major contributions to code repositories.
 - Maintained meticulous documentation and code integrity, ensuring clarity and accessibility for fellow developers and contributors.
 
-**Pango**\
-*CIO/CFO* • Vienna, Austria • 2023-Now
+**[Pango](https://pango.at)**\
+*Part-time* • Vienna, Austria • 2023-Now
 
 - Led the development and deployment of the Pango website using Next.js, React, and MongoDB, ensuring a smooth user experience and optimal performance.
 - Managed multiple client projects, collaborating with stakeholders to understand requirements and deliver tailored solutions.
