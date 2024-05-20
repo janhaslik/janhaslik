@@ -9,7 +9,6 @@
 ✉️ &nbsp;You can shoot me an email at jan@haslik.at! I'll try to respond as soon as I can.
 
 [LinkedIn](https://www.linkedin.com/in/jan-haslik-8a5854252/)
-[Github](https://github.com/janhaslik)
 
 ### 🏢 &nbsp;Work Experience
 
