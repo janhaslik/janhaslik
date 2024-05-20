@@ -8,10 +8,8 @@
 ✍️ &nbsp;In my free time, I pursue Finance, Maths and Programming as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at jan@haslik.at! I'll try to respond as soon as I can.
 
-[Download CV](Jan Haslik Resume.pdf)
 [LinkedIn](https://www.linkedin.com/in/jan-haslik-8a5854252/)
 [Github](https://github.com/janhaslik)
-</div>
 
 ### 🏢 &nbsp;Work Experience
 
