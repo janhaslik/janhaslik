@@ -8,6 +8,38 @@
 ✍️ &nbsp;In my free time, I pursue Finance, Maths and Programming as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at jan@haslik.at! I'll try to respond as soon as I can.
 
+### 🏢 &nbsp;Work Experience
+
+
+**OEBB BCC IKT**\
+*Intern: Finance- & Integration-Management* • Vienna, Austria • Juli 2023 - August 2023
+
+- Supported cost accounting on special cases of clients.
+- Prepared different levels of SLAs for clients.
+- Conducted inventory checks on technical and business sides.
+
+**Kapsch TrafficCom AG**\
+*Intern: IT-Support* • Vienna, Austria • August 2022-August 2022
+
+- Increased warehouse efficiency which lead to faster assembly of orders.
+- Migrated offices and set up network infrastructure.
+
+**Blue SeaBird**\
+*Core Committer* • Vienna, Austria • 2023-Now
+
+- Engineered sophisticated platforms and algorithms, driving innovation and efficiency within open-source projects.
+- Played a pivotal role in shaping project direction and vision, with major contributions to code repositories.
+- Maintained meticulous documentation and code integrity, ensuring clarity and accessibility for fellow developers and contributors.
+
+**Pango**\
+*CIO/CFO* • Vienna, Austria • 2023-Now
+
+- Led the development and deployment of the Pango website using Next.js, React, and MongoDB, ensuring a smooth user experience and optimal performance.
+- Managed multiple client projects, collaborating with stakeholders to understand requirements and deliver tailored solutions.
+- Oversaw the management of the TikTok and LinkedIn accounts, curating content, and engaging with followers to increase brand visibility and engagement.
+- Produced engaging video content by editing and cutting videos, as well as creating memes to enhance social media presence.
+- Utilized Next.js and React for internal projects, leveraging MongoDB for database management and ensuring scalability and security.
+
 
 ### 🚧 &nbsp;Projects
 
