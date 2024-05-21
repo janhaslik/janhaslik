@@ -73,6 +73,11 @@
 - **Spengernews**: Newswebsite with Vue, Directus & SQLite
 - **Shipdb**: Ship & Plane Management Database, PLSQL/Oracle
 
+**TODO Projects**
+
+- Load balancer
+- Recommendation system
+
 
 ### 🛠 &nbsp;Technologies
 
