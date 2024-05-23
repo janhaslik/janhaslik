@@ -77,6 +77,7 @@
 
 - Load balancer
 - Recommendation system
+- Financial News Sentiment Analysis Model
 
 
 ### 🛠 &nbsp;Technologies
