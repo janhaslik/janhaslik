@@ -60,7 +60,7 @@
 **Projects at [Pango](https://www.pango.at)**
 
 - Pango Website, https://pango.at
-- Questionaire Edit Tool for [Marksim Services](https://www.marksim.net), React, TS
+- Questionnaire Edit Tool for [Marksim Services](https://www.marksim.net), React, TS
 - Google maps booking overlay for Superplakat, React, TS
 
 **Projects at [HTL Spengergasse](https://www.spengergasse.at)**
