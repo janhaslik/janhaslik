@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at HTL Spengergasse.\
-🌱 &nbsp;I'm on track for learning more about Finance, Quantative Finance, NLP, AI/ML, C++, Go, Systems Design, and Webdevelopment.\
+🌱 &nbsp;I'm on track for learning more about Finance, Quantative Finance, Search, NLP, AI/ML, C++, Go, Systems Design, and Webdevelopment.\
 ✍️ &nbsp;In my free time, I pursue Finance, Maths and Programming as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at jan@haslik.at! I'll try to respond as soon as I can.
 
