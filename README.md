@@ -13,20 +13,6 @@
 
 ### 🏢 &nbsp;Work Experience
 
-
-**[OEBB BCC IKT](https://bcc.oebb.at/de/das-leisten-wir/information-communication-technology/fim)**\
-*Intern: Finance- & Integration-Management* • Vienna, Austria • Juli 2023 - August 2023
-
-- Supported cost accounting on special cases of clients.
-- Prepared reports and documentation for asset management.
-- Conducted inventory checks on technical and business sides.
-
-**[Kapsch TrafficCom AG](https://kapsch.net)**\
-*Intern: IT-Support* • Vienna, Austria • August 2022-August 2022
-
-- Increased warehouse efficiency which lead to faster assembly of orders.
-- Migrated offices and set up network infrastructure.
-
 **[Blue SeaBird](https://blueseabird.com)**\
 *Core Committer* • Vienna, Austria • 2023-Now
 
@@ -42,6 +28,19 @@
 - Oversaw the management of the TikTok and LinkedIn accounts, curating content, and engaging with followers to increase brand visibility and engagement.
 - Produced engaging video content by editing and cutting videos, as well as creating memes to enhance social media presence.
 - Utilized Next.js and React for internal projects, leveraging MongoDB for database management and ensuring scalability and security.
+
+**[OEBB BCC IKT](https://bcc.oebb.at/de/das-leisten-wir/information-communication-technology/fim)**\
+*Intern: Finance- & Integration-Management* • Vienna, Austria • Juli 2023 - August 2023
+
+- Supported cost accounting on special cases of clients.
+- Prepared reports and documentation for asset management.
+- Conducted inventory checks on technical and business sides.
+
+**[Kapsch TrafficCom AG](https://kapsch.net)**\
+*Intern: IT-Support* • Vienna, Austria • August 2022-August 2022
+
+- Increased warehouse efficiency which lead to faster assembly of orders.
+- Migrated offices and set up network infrastructure.
 
 
 ### 🚧 &nbsp;Projects
