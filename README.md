@@ -13,8 +13,8 @@
 
 ### 🏢 &nbsp;Work Experience
 
-**[Raiffeisen Bank International](https://www.rbinternational.com)**, Data Warehouse & Group Data\
-*Software Engineer Intern* • Vienna, Austria • July 2024
+**[Raiffeisen Bank International](https://www.rbinternational.com)**\
+*Software Engineer Intern, Data Warehouse & Group Data* • Vienna, Austria • July 2024
 
 - Worked on dataflow orchestration service of a platform for consolidating and integrating domain-related data, supporting real-time and batch data collection with advanced operational capabilities.
 - Developed security features for the data orchestration service using Java Spring and Angular.
