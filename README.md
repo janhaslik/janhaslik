@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at HTL Spengergasse.\
-🌱 &nbsp;I'm on track for learning more about Finance, Quantative Finance, Search, NLP, AI/ML, C++, Go, Systems Design, and Webdevelopment.\
+🌱 &nbsp;I'm on track for learning more about Finance, Quantative Finance, Search, NLP, AI/ML, C++, Go, Systems Programming, and Webdevelopment.\
 ✍️ &nbsp;In my free time, I pursue Finance, Maths and Programming as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at jan@haslik.at! I'll try to respond as soon as I can.
 
@@ -13,8 +13,15 @@
 
 ### 🏢 &nbsp;Work Experience
 
+**[Raiffeisen Bank International](https://www.rbinternational.com)**\
+*Software Engineer Intern* • Vienna, Austria • July 2024
+
+- Worked on dataflow orchestration service of a platform for consolidating and integrating domain-related data, supporting real-time and batch data collection with advanced operational capabilities.
+- Developed security features for the data orchestration service using Java Spring and Angular.
+- Tested & maintained code, documentation and system integrity.
+
 **[Blue SeaBird](https://blueseabird.com)**\
-*Core Committer* • Vienna, Austria • 2023-Now
+*Core Developer* • Vienna, Austria • 2023-Now
 
 - Engineered sophisticated platforms and algorithms, driving innovation and efficiency within open-source projects.
 - Played a pivotal role in shaping project direction and vision, with major contributions to code repositories.
@@ -37,7 +44,7 @@
 - Conducted inventory checks on technical and business sides.
 
 **[Kapsch TrafficCom AG](https://kapsch.net)**\
-*Intern: IT-Support* • Vienna, Austria • August 2022-August 2022
+*Intern: IT-Support* • Vienna, Austria • August 2022
 
 - Increased warehouse efficiency which lead to faster assembly of orders.
 - Migrated offices and set up network infrastructure.
@@ -48,9 +55,12 @@
 **Personal Projects**
 
 - [Asura Crow](https://github.com/Peeentaa/Asura-Crow): Google Search Clone: crawler, index, search in C++, Go & MongoDB
+- [Grand Line](https://github.com/janhaslik/GrandLine): Time-Series Models Platform
 - [Zorro](https://github.com/Peeentaa/Zorro): Versatile command-line cryptographic tool written in Golang & SQLite
 - [Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software written in Java, React, MySQL & TS
-- [Toukyou](https://github.com/Peeentaa/Toukyou): Financial Data Aggregation & Analysis Pipeline written in Go, C++ & SQLite
+- [FlameCat](https://github.com/janhaslik/FlameCat): GPT2-based Document Classifier
+- [PirateFusion](https://github.com/janhaslik/PirateFusion): Star Ship Price Predictor
+
 
 **Projects at [Blue SeaBird](https://www.blueseabird.com)**
 
@@ -64,7 +74,7 @@
 
 **Projects at [HTL Spengergasse](https://www.spengergasse.at)**
 
-- **Aviation Audit System**, Microservices with Java, Vue & MySQL, PM of 24 People
+- **Aviation Audit System**, Java, Vue & MySQL, PM of 24 People
 - **Stock Analysis Tool** with React, Express.js & MongoDB
 - **Austrian Airlines Clone** with Java, Vue & H2, [Official Website](https://www.austrian.com/at/de/homepage)
 - **SightSee: Airbnb Clone** with .NET, Vue & SQLite, [Official Website](https://www.airbnb.com)
