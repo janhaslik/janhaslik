@@ -61,10 +61,14 @@
 - [FlameCat](https://github.com/janhaslik/FlameCat): GPT2-based Document Classifier
 - [PirateFusion](https://github.com/janhaslik/PirateFusion): Star Ship Price Predictor
 
+**Collaborative Projects**
+
+- [Ecommerce Category Classifier](https://github.com/janhaslik/Ecommerce-Category-Classifier): BERT-based e-commerce product description classification system
 
 **Projects at [Blue SeaBird](https://www.blueseabird.com)**
 
 - [JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus): C++ REST API Framework
+- [Sierra](https://github.com/Blue-SeaBird/Sierra): Finance & Quantative Finance Library
 
 **Projects at [Pango](https://www.pango.at)**
 
