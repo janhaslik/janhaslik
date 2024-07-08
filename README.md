@@ -86,13 +86,6 @@
 - **Spengernews**: Newswebsite with Vue, Directus & SQLite
 - **Shipdb**: Ship & Plane Management Database, PLSQL/Oracle
 
-**TODO Projects**
-
-- Load balancer
-- Recommendation system
-- Financial News Sentiment Analysis Model
-
-
 ### 🛠 &nbsp;Technologies
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
