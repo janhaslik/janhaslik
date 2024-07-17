@@ -11,44 +11,6 @@
 [LinkedIn](https://www.linkedin.com/in/jan-haslik-8a5854252/)
 [My Website](https://janhaslik.github.io)
 
-### 🏢 &nbsp;Work Experience
-
-**[Raiffeisen Bank International](https://www.rbinternational.com)**\
-*Software Engineer Intern, Data Warehouse & Group Data* • Vienna, Austria • July 2024
-
-- Worked on dataflow orchestration service of a platform for consolidating and integrating domain-related data, supporting real-time and batch data collection with advanced operational capabilities.
-- Developed security features for the data orchestration service using Java Spring and Angular.
-- Tested & maintained code, documentation and system integrity.
-
-**[Blue SeaBird](https://blueseabird.com)**\
-*Core Developer* • Vienna, Austria • 2023-Now
-
-- Engineered sophisticated software solutions driving innovation and efficiency within open-source projects.
-- Played a pivotal role in shaping project direction and vision, with major contributions to code repositories.
-
-**[Pango](https://pango.at)**\
-*Part-time* • Vienna, Austria • 2023-Now
-
-- Led the development and deployment of the Pango website using Next.js, React, and MongoDB, ensuring a smooth user experience and optimal performance.
-- Managed multiple client projects, collaborating with stakeholders to understand requirements and deliver tailored solutions.
-- Oversaw the management of the TikTok and LinkedIn accounts, curating content, and engaging with followers to increase brand visibility and engagement.
-- Produced engaging video content by editing and cutting videos, as well as creating memes to enhance social media presence.
-- Utilized Next.js and React for internal projects, leveraging MongoDB for database management and ensuring scalability and security.
-
-**[OEBB BCC IKT](https://bcc.oebb.at/de/das-leisten-wir/information-communication-technology/fim)**\
-*Intern: Finance- & Integration-Management* • Vienna, Austria • Juli 2023 - August 2023
-
-- Supported cost accounting on special cases of clients.
-- Prepared reports and documentation for asset management.
-- Conducted inventory checks on technical and business sides.
-
-**[Kapsch TrafficCom AG](https://kapsch.net)**\
-*Intern: IT-Support* • Vienna, Austria • August 2022
-
-- Increased warehouse efficiency which lead to faster assembly of orders.
-- Migrated offices and set up network infrastructure.
-
-
 ### 🚧 &nbsp;Projects
 
 **Personal Projects**
