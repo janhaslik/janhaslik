@@ -70,12 +70,6 @@
 - [JetPlusPlus](https://github.com/Blue-SeaBird/JetPlusPlus): C++ REST API Framework
 - [Sierra](https://github.com/Blue-SeaBird/Sierra): Finance & Quantative Finance Library
 
-**Projects at [Pango](https://www.pango.at)**
-
-- Pango Website, https://pango.at
-- Questionnaire Edit Tool for [Marksim Services](https://www.marksim.net), React, TS
-- Google maps booking overlay for Superplakat, React, TS
-
 **Projects at [HTL Spengergasse](https://www.spengergasse.at)**
 
 - **Aviation Audit System**, Java, Vue & MySQL, PM of 24 People
