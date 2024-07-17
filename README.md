@@ -23,9 +23,8 @@
 **[Blue SeaBird](https://blueseabird.com)**\
 *Core Developer* • Vienna, Austria • 2023-Now
 
-- Engineered sophisticated platforms and algorithms, driving innovation and efficiency within open-source projects.
+- Engineered sophisticated software solutions driving innovation and efficiency within open-source projects.
 - Played a pivotal role in shaping project direction and vision, with major contributions to code repositories.
-- Maintained meticulous documentation and code integrity, ensuring clarity and accessibility for fellow developers and contributors.
 
 **[Pango](https://pango.at)**\
 *Part-time* • Vienna, Austria • 2023-Now
