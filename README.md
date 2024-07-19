@@ -15,6 +15,7 @@
 
 **Personal Projects**
 
+- [TrafficWatch](https://github.com/janhaslik/TrafficWatch): Real-time traffic monitoring & analytics 
 - [Asura Crow](https://github.com/Peeentaa/Asura-Crow): Google Search Clone: crawler, index, search in C++, Go & MongoDB
 - [Grand Line](https://github.com/janhaslik/GrandLine): Time-Series Models Platform
 - [Zorro](https://github.com/Peeentaa/Zorro): Versatile command-line cryptographic tool written in Golang & SQLite
