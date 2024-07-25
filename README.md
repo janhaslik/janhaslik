@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jan</h2>
+<h2>Hey there! I'm Jan</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -16,7 +16,7 @@
 **Personal Projects**
 
 - [TrafficWatch](https://github.com/janhaslik/TrafficWatch): Real-time traffic monitoring & analytics 
-- [Asura Crow](https://github.com/Peeentaa/Asura-Crow): Google Search Clone: crawler, index, search in C++, Go & MongoDB
+- [Asura Crow](https://github.com/Peeentaa/Asura-Crow): Basic Search Engine: crawler, index, search in C++, Go & MongoDB
 - [Grand Line](https://github.com/janhaslik/GrandLine): Time-Series Models Platform
 - [Zorro](https://github.com/Peeentaa/Zorro): Versatile command-line cryptographic tool written in Golang & SQLite
 - [Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software written in Java, React, MySQL & TS
