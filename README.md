@@ -15,13 +15,14 @@
 
 **Personal Projects**
 
-- [TrafficWatch](https://github.com/janhaslik/TrafficWatch): Real-time traffic monitoring & analytics 
-- [Asura Crow](https://github.com/Peeentaa/Asura-Crow): Basic Search Engine: crawler, index, search in C++, Go & MongoDB
-- [Grand Line](https://github.com/janhaslik/GrandLine): Time-Series Models Platform
+- [TrafficWatch](https://github.com/janhaslik/TrafficWatch): Real-time traffic monitoring & analytics: Keras, Tensorflow, Java, Kafka, MongoDB, React & TS
+- [Asura Crow](https://github.com/Peeentaa/Asura-Crow): Basic search engine: crawler, index, search in C++, Go & MongoDB
+- [FinanceMood](https://github.com/janhaslik/FinanceMood): Sentiment analysis of financial news headlines: Keras, Tensorflow
+- [FlameCat](https://github.com/janhaslik/FlameCat): GPT2-based document classifier
+- [Grand Line](https://github.com/janhaslik/GrandLine): Time-series models platform
+- [PirateFusion](https://github.com/janhaslik/PirateFusion): Starship price predictor
+- [Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement software written in Java, MySQL, React & TS
 - [Zorro](https://github.com/Peeentaa/Zorro): Versatile command-line cryptographic tool written in Golang & SQLite
-- [Cracker](https://github.com/Peeentaa/Cracker): Shipmanagement Software written in Java, React, MySQL & TS
-- [FlameCat](https://github.com/janhaslik/FlameCat): GPT2-based Document Classifier
-- [PirateFusion](https://github.com/janhaslik/PirateFusion): Star Ship Price Predictor
 
 **Collaborative Projects**
 
@@ -45,11 +46,11 @@
 ### 🛠 &nbsp;Technologies
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)&nbsp;\
 ![Spring](https://img.shields.io/badge/-spring-%236DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
