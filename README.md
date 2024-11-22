@@ -13,17 +13,17 @@
 
 ### 🚧 &nbsp;Projects
 
-**Personal Projects**
+**Side Projects**
 
 - [TrafficWatch](https://github.com/janhaslik/TrafficWatch): Real-time traffic monitoring & analytics: Keras, Tensorflow, Java, Kafka, MongoDB, React & TS
 - [Asura Crow](https://github.com/janhaslik/Asura-Crow): Basic search engine: crawler, index, search in C++, Go & MongoDB
-- [EngineXRules](https://github.com/janhaslik/EngineXRules): Rule Based Decision Engine in C++
 - [FinanceMood](https://github.com/janhaslik/FinanceMood): Sentiment analysis of financial news headlines: Keras, Tensorflow
 - [FlameCat](https://github.com/janhaslik/FlameCat): GPT2-based document classifier
 - [Grand Line](https://github.com/janhaslik/GrandLine): Time-series models platform
 - [PirateFusion](https://github.com/janhaslik/PirateFusion): Starship price predictor
 - [Cracker](https://github.com/janhaslik/Cracker): Shipmanagement software written in Java, MySQL, React & TS
 - [Zorro](https://github.com/janhaslik/Zorro): Versatile command-line cryptographic tool written in Golang & SQLite
+- [EngineXRules](https://github.com/janhaslik/EngineXRules): Rule Based Decision Engine in C++
 
 **Collaborative Projects**
 
