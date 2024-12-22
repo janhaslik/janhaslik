@@ -22,6 +22,7 @@
 - [FinanceMood](https://github.com/janhaslik/FinanceMood): Sentiment analysis of financial news headlines; Keras, Tensorflow
 - [FlameCat](https://github.com/janhaslik/FlameCat): GPT2-based document classifier
 - [Zorro](https://github.com/janhaslik/Zorro): Versatile command-line cryptographic tool written in Go & SQLite
+- [Clif](https://github.com/janhaslik/Clif): Terminal-based file manager interface written in Go.
 - [EngineXRules](https://github.com/janhaslik/EngineXRules): Rule Based Decision Engine in C++
 - ML-Heroes: Machine Learning projects and ressources
 
